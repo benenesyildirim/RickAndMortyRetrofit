@@ -3,6 +3,8 @@
 Just a simple api-listing app with retrofit and navigation architecture.
 ```
 
+![rickandmortretrofit](https://user-images.githubusercontent.com/26333702/139447719-6c2be5b3-789d-49f3-add4-dfb08bcc73ae.jpg)
+
 ## Authors
 
 * Just me :D
